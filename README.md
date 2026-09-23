@@ -61,7 +61,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 ###
 
-<h2></h2>
+<h2>✨Historico Commits</h2>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heiitor77/heiitor77/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
@@ -71,7 +71,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 ###
 
-<h2></h2>
+<h2>🎧Vibes</h2>
 
 <div align = "center">
 <a href="https://open.spotify.com/user/glfln4nr22rcl36f6cb5pf21k">
