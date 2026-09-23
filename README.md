@@ -19,11 +19,11 @@
     <img src="./assets/banner.jpg" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">⚡🕷️ Heitor S. Costa ⚡🕷️</h1>
+<h1 align="center">⚡🕷️ Heitor S. Costa </h1>
 
-<h3 align="center">📚💻 Estudante de Analise e Desenvolvimento de Sistemas 📚💻</h3>
+<h3 align="center">📚💻 Estudante de Analise e Desenvolvimento de Sistemas </h3>
 
-##  <h2 align="center">🚀 Sobre mim 🚀</h2>
+##  <h2 align="center">🚀 Sobre mim </h2>
 
 <img align= "right" src="https://i.pinimg.com/1200x/27/39/37/273937464edd59a271e3c98e46282b1a.jpg" width="280" alt="Imagem">
 
@@ -35,7 +35,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 <br clear="right"/>
 
-## <h2 align = "center">🖥️ Tecnologias 🖥️</h2>
+## <h2 align = "center">🖥️ Tecnologias </h2>
 
 
 
@@ -55,7 +55,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 ###
 
-## <h2 align = "center">📊 Status do Github 📊</h2>
+## <h2 align = "center">📊 Status do Github </h2>
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/heiitor77/heiitor77/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
@@ -65,7 +65,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 ###
 
-<h2 align = "center" >✨ Historico Commits ✨</h2>
+<h2 align = "center" >✨ Historico Commits </h2>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heiitor77/heiitor77/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
@@ -75,7 +75,7 @@ Busco montar um portfolio abrangente durante a fase academica e vida profissiona
 
 ###
 
-<h2 align = "center" >🎧 Vibes 🎧</h2>
+<h2 align = "center" >🎧 Vibes </h2>
 
 <div align = "center">
 <a href="https://open.spotify.com/user/glfln4nr22rcl36f6cb5pf21k">
