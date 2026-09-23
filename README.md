@@ -19,7 +19,7 @@
     <img src="./assets/banner.jpg" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">⚡🕷️ Heitor S. Costa </h1>
+<h1 align="center">⚡Heitor S. Costa </h1>
 
 <h3 align="center">📚💻 Estudante de Analise e Desenvolvimento de Sistemas </h3>
 
